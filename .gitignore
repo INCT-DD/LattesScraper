@@ -17,3 +17,6 @@ resumes/
 failed_extractions.txt
 resumes.txt
 jsons/
+enriched_jsons/
+excel/
+failed_requests/

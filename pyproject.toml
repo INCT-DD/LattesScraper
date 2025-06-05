@@ -9,7 +9,8 @@ dependencies = [
     "instructor>=1.8.3",
     "ipykernel>=6.29.5",
     "lxml>=5.4.0",
-    "pandas[excel]>=2.2.3",
     "playwright>=1.52.0",
+    "polars[async,excel]>=1.30.0",
+    "stamina>=25.1.0",
     "tqdm>=4.67.1",
 ]
